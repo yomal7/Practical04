@@ -3,3 +3,5 @@ Practical 04.pdf
 .metals
 .scala-build
 .vscode
+*.class
+*.tasty
